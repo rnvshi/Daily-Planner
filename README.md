@@ -18,8 +18,6 @@ Below are screenshots of planner usage:
 
 Link to the deployed application: https://rnvshi.github.io/Daily-Planner
 
-## Credits
-
 ## License
 
 Refer to licence in repository.
